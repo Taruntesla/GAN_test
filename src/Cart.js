@@ -51,7 +51,7 @@ const Cart =()=>{
             <button className="btn btn-danger m-2" onClick={()=>emptyCart()}>
              Clear Cart
             </button>
-            <button className="btn btn-secondary m-2" onClick={()=>emptyCart()}>
+            <button className="btn btn-secondary m-2" onClick={()=>{console.log(cartTotal);emptyCart()}}>
              {console.log(cartTotal)} Checkout
             </button>
 
