@@ -52,7 +52,7 @@ const Cart =()=>{
              Clear Cart
             </button>
             <button className="btn btn-secondary m-2" onClick={()=>{console.log(cartTotal);emptyCart()}}>
-             {console.log(cartTotal)} Checkout
+             Checkout
             </button>
 
          </div>
