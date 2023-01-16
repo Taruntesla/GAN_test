@@ -1,5 +1,5 @@
 App documentation:
-After downloading the zip file from Github head to that repository and follow the steps
+After downloading the zip file from Github head(cd in terminal/hyper) to that repository and follow the steps
 
 >Step 1
 go to browser and download node LTS (if not already installed)
